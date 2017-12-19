@@ -1,0 +1,7 @@
+/.*
+/logs/
+/src/test/
+/target/
+buildServer.log
+dfDir/*.war
+!.gitignore
